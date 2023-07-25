@@ -21,7 +21,7 @@ Links: [LinkedIn](www.linkedin.com/in/matei-galesanu-a56710230)
 <img src="images/cpp_icon.png"  width="16" height="16"> **C++**,
 <img src="images/js_icon.png"  width="16" height="16"> **JavaScript/TypeScript**,
 <img src="images/html_icon.png"  width="16" height="16"> **HTML**,
-<img src="images/css_icon.png"  width="16" height="16"> **CSS**,
+<img src="images/css_icon.png"  width="16" height="16"> **CSS**
 
 ### Technologies & Frameworks
 🌐 **HTTP, UDP, gRPC**,
@@ -34,7 +34,7 @@ Links: [LinkedIn](www.linkedin.com/in/matei-galesanu-a56710230)
 <img src="images/mockito_icon.png"  width="16" height="16"> **Mockito**
 <img src="images/opencv_icon.png"  width="16" height="16"> **OpenCV**,
 <img src="images/opengl_icon.png"  width="16" height="16"> **OpenGL**,
-<img src="images/git_icon.png"  width="16" height="16"> **Git**,
+<img src="images/git_icon.png"  width="16" height="16"> **Git**
 
 ## 💻 Experience
 ### ![LOBSTER Robotics](images/lobster_icon.png) Frontend Developer at [LOBSTER Robotics](https://www.lobster-robotics.com/) (2022-)
