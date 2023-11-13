@@ -1,10 +1,13 @@
 # Matei Galesanu
-Frontend Developer at [LOBSTER Robotics](https://www.lobster-robotics.com/) & Computer Science and Engineering Bachelor Graduate at [Delft University of Technology](https://www.tudelft.nl/)
+Consultant/Developer at [Netcompany Netherlands](https://www.netcompany.com/) & MSc Computer Science student at [Delft University of Technology](https://www.tudelft.nl/)
 
 Links: [LinkedIn](www.linkedin.com/in/matei-galesanu-a56710230)
 [LeetCode](https://leetcode.com/janelu44/)
 
 ## 🎓 Education
+### Computer Science MSc (2023-)
+*at **Delft University of Technology***
+
 ### Computer Science and Engineering BSc (2020-2023)
 *at **Delft University of Technology**, graduated **Cum Laude** (GPA 8.0)*
 
@@ -37,8 +40,13 @@ Links: [LinkedIn](www.linkedin.com/in/matei-galesanu-a56710230)
 <img src="images/git_icon.png"  width="16" height="16"> **Git**
 
 ## 💻 Experience
-### ![LOBSTER Robotics](images/lobster_icon.png) Frontend Developer at [LOBSTER Robotics](https://www.lobster-robotics.com/) (2022-)
-- **Description:** Currently developing a native UI that allows inspecting telemetry and configuring autonomous underwater vehicles for exploration and seafloor surveys.
+### ![Netcompany](images/netcompany_icon.png) Consultant/Developer at [Netcompany](https://www.netcompany.com/) (2023-)
+- **Description:** 
+- **Location:** Delft, Netherlands
+- **Acquired skills:** React, Dotnet, DevOps
+
+### ![LOBSTER Robotics](images/lobster_icon.png) Frontend Developer at [LOBSTER Robotics](https://www.lobster-robotics.com/) (2022-2023)
+- **Description:** Developed a native UI that allows inspecting telemetry and configuring autonomous underwater vehicles for exploration and seafloor surveys.
 - **Location:** Delft, Netherlands
 - **Acquired skills:** Flutter, Dart, Python, gRPC, UDP
 
@@ -65,6 +73,10 @@ Links: [LinkedIn](www.linkedin.com/in/matei-galesanu-a56710230)
 ### Research Project: Neural Radiance Fields as a Rendering Primitive ([GitHub](https://github.com/janelu44/streamnerf))
 - **Description:** Adapted a NeRF model for progressive decoding, for online application uses.
 - **Keywords:** Python, Flax, Deep Learning
+
+### Image Processing: License Plate Recognition
+- **Description:** Implemented a pipeline for localizing and reading license plates from a video with 80% accuracy.
+- **Keywords:** Python, OpenCV
 
 ### Software Engineering Methods: Sports Centre Backend
 - **Description:** Developed a well-tested, scalable microservice-based backend in Spring as part of a student team.
